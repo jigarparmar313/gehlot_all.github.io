@@ -1,0 +1,1520 @@
+.pt_25 {
+    padding-top: 25px
+}
+
+.pb_25 {
+    padding-bottom: 25px
+}
+
+
+
+/* <!-- header 1 ( starts ) --> */
+
+.mb_10 {
+    margin-bottom: 10px;
+    /* this is for the horizontal line for up and down  */
+}
+
+
+/* .box_design_5 {
+    margin: 5px;
+} */
+
+.team_bg{
+    background-image: url("img/TEAM/images.jpg");
+}
+
+.bg-black_gradient {
+    background: #05060a;
+}
+
+
+.bg_gray{
+    background-color: #8592a6;
+}
+
+
+/* .logo_1 {
+    margin: auto;
+    padding-top: 31px;
+    width: 50%;
+} */
+
+.logo_1 {
+    padding-top: 31px;
+    width: 50%;
+    margin: 0px;
+    /* padding-left: 1px; */
+}
+
+.logo_1 img {
+    width: 100%;
+    margin: auto;
+}
+
+.logo_1 a {
+    text-decoration: none;
+}
+
+
+.logo_1 h1{
+    color: #e9b931;
+    font-size: 35px;
+    text-align: center;
+}
+
+.logo_1 h6{
+    font-size: 10px;
+    text-align: center;
+    color: #e9b931;
+}
+
+.navbar.navright {
+    float: right;
+}
+
+.navbar {
+    margin-top: 42px;
+    /* background-color: aqua; */
+    float: right;
+}
+
+.navbar ul {
+    float: right;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar ul li {
+    list-style: none;
+    float: left;
+    padding-right: 50px;
+    MARGIN: 0PX;
+    padding-bottom: 30px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    /* color: #5b6669; */
+    /* color: #e9b931; */
+    color: #05060a;
+    padding-bottom: 20px;
+    /* padding: 0px 30px; */
+}
+
+.navbar ul li a:hover {
+    border-bottom: 2px solid #d58e1d;
+    width: 15%;
+    margin: auto;
+}
+
+.navbar ul li {
+    list-style: none;
+    float: left;
+    padding-right: 50px;
+    MARGIN: 0PX;
+}
+
+
+
+/* <!-- section 2 (slider) starts --> */
+
+
+.dennis.text-center {
+    padding: 125px 0px;
+    /* border: 15px solid #e1e1e1; */
+    border: 15px solid #00000057;
+    position: relative;
+    margin-top: 70px;
+}
+
+.dennis_img{
+    background-color: #ff4061;
+    margin-left: -80px;
+
+}
+
+.dennis_img img {
+    /* margin-left: -80px; */
+    margin-top: -46px;
+    position: relative;
+}
+
+.dennis h1{
+    font-family: "Antonio-Regular";
+}  
+
+.dennis p{
+    font-size: 16px;
+    font-family: Open Sans, Georgia, serif, serif, sans-serif;
+    line-height: 24px;
+    color: black;
+}
+
+.Judith.text-center {
+    padding: 125px 0px;
+    border: 15px solid #ebebeb;
+    margin-top: 190px;
+    position: relative;
+
+}
+
+.Judith_img{
+  
+        background-color: #ffc7d0;
+        margin-right: -100px;
+    }
+
+
+.Judith_img img {
+    background-color: #ffc6d0;
+    /* margin-left: 75px; */
+    position: relative;
+
+}
+
+
+.first_bg_wedding_img {
+    /* background-image: url("img/first_indian_wedding.jpg"); */
+    /* background-image: url("img/home_planer01.jpg"); */
+    background-image: url("img/banner/megabanner\ copy.jpg");
+    /* background: whitesmoke; */
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* filter: blur(8px); */
+    /* -webkit-filter: blur(8px); */
+}
+
+
+.mt_200 {
+    margin-top: 200px;
+}
+
+ .logo_2 {
+    text-align: center;
+    padding-top: 50px;
+} 
+
+/* .logo_2 {
+    text-align: center;
+    margin-top: -500px;
+} */
+.logo_border {
+    border-radius: 20%;
+}
+
+@font-face {
+    font-family: "Montserrat-Regular";
+    src: url("font/Montserrat/Montserrat-Regular.ttf");
+}
+
+.logo_2 h4 {
+    /* text-align: center;
+    /* padding-top: 10px; */
+    color: whitesmoke;
+    z-index: 7;
+    white-space: nowrap;
+    font-size: 24px !important;
+    line-height: 36px;
+    font-weight: 400;
+    color: #ffffff;
+    letter-spacing: 2px;
+    font-family: "Montserrat-Regular";
+    text-transform: uppercase;
+    font-size: 24px !important;
+
+
+}
+
+/* @font-face {
+    font-family: 'YanoneKaffeesatz-Bold';
+    src: url("Yanone_Kaffeesatz/YanoneKaffeesatz-Bold.ttf");
+} */
+
+.logo_2 h1 {
+    z-index: 8;
+    white-space: nowrap;
+    line-height: 85px;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0px;
+    font-family: "Playfair Display";
+    text-transform: uppercase;
+    font-size: 57px;
+    visibility: inherit;
+    transition: none 0s ease 0s;
+    text-align: inherit;
+    border-width: 0px;
+    margin: 0px;
+    padding: 0px;
+    min-height: 0px;
+    min-width: 0px;
+    max-height: none;
+    max-width: none;
+    opacity: 1;
+    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    transform-origin: 50% 50% 0px;
+
+
+
+}
+
+.btn_1 {
+    border-radius: 25px;
+    /* background-color: #28313b; */
+    /* background: #05060a; */
+    z-index: 9;
+    white-space: nowrap;
+    font-size: 16px;
+    line-height: 22px;
+    color: black;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-radius: 10px 10px 10px 10px;
+    background: #e9b931 !important;
+
+}
+
+.btn:hover {
+    /* color: #e9b931; */
+    color: #ffffff;
+}
+
+
+
+
+
+
+/* <!-- section 3 ( gallary) starts --> */
+
+.cont_bg {
+    background-color: #05060a;
+}
+
+.pt_90 {
+    padding-top: 90px;
+}
+
+.pb_90 {
+    padding-bottom: 90px;
+}
+
+.hr {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e9b931;
+    width: 13%;
+}
+
+.gal_1 img{
+    width: 100%;
+    margin: auto;
+}
+
+
+@font-face {
+    font-family: "Antonio-Regular";
+    src: url("font/Antonio/Antonio-Regular.ttf");
+}
+
+.gallary h1 {
+    /* color: whitesmoke; */
+    color: #05060a;
+    font-family: "Antonio-Regular";
+    font-size: 36px;
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+    margin-top: 0;
+    position: relative;
+    display: inline-block;
+    line-height: 1.2;
+
+}
+
+.wedd_img p {
+    margin-left: 0px;
+    margin-right: 0px;
+    /* text-align: ; */
+    /* margin-top: 40%;
+    margin-bottom: 60%; */
+    /* font-size: 25px;
+    color: whitesmoke; */
+    font-size: 24px;
+    /* color: #fff; */
+    color: #05060a;
+    margin-top: 145px;
+    margin-bottom: 10px;
+    line-height: 30px;
+}
+
+.wedd_img img {
+    border: 5px solid #e9b931;
+    width: 100%;
+    margin: auto;
+}
+
+
+
+
+/* <!-- section 4  ( Our Services )  starts --> */
+
+.mt_90 {
+    margin-top: 90px;
+}
+
+.mb_90 {
+    margin-bottom: 90px;
+}
+
+.mt_50 {
+    margin-top: 50px;
+}
+
+.our_services {
+    text-align: center;
+}
+
+
+.bg-services{
+    background-image: url("img/services\ copy.jpg");
+}
+
+.our_services h1 {
+    font-size: 36px;
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+    margin-top: 0;
+    position: relative;
+    display: inline-block;
+    line-height: 1.2;
+    color: whitesmoke;
+    /* color: black; */
+    font-family: 'Antonio-Regular';
+}
+
+.hr_2 {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e9b931;
+    text-align: center;
+    width: 14.5%;
+}
+
+.o_s_para p {
+    font-weight: 300;
+    max-width: 100%;
+    font-size: 16px;
+    font-family: Open Sans, Georgia, serif, serif, sans-serif;
+    line-height: 24px;
+    text-align: center;
+    font-weight: 400;
+    color: whitesmoke;
+    /* color: black; */
+}
+
+.btn_2 {
+    border-radius: 25px;
+    /* background-color: #28313b; */
+    /* background: #05060a; */
+    z-index: 9;
+    white-space: nowrap;
+    font-size: 16px;
+    line-height: 22px;
+    color: black;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-radius: 10px 10px 10px 10px;
+    background: #e9b931 !important;
+    /* float: right; */
+}
+
+
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.fa-car {
+    color: whitesmoke;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    font-size: 80px;
+}
+
+.o_s_products img {
+    width: 100%;
+    margin: auto;
+    background: honeydew;
+    border-radius: 25%;
+}
+
+
+.o_s_products_2 img {
+    width: 100%;
+    margin: auto;
+    background:  #f0fff008;
+    border-radius: 25%;
+}
+
+.o_s_products {
+    font-size: 50px;
+    width: 45%;
+    margin: auto;
+}
+
+.o_s_products_2 {
+    font-size: 50px;
+    width: 45%;
+    margin: auto;
+}
+
+.wedding-icon .icon-align-center {
+    text-align: center;
+}
+.o_s_products h1 {
+    text-align: center;
+    color: #e9b931;
+    font-size: 25px;
+    margin-top: 25px;
+    font-family: "Antonio-Regular";
+}
+
+.o_s_products p {
+    text-align: center;
+    color: #ffffff;
+    /* color: black; */
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 0;
+    margin-top: 10px;
+    font-family: Open Sans;
+    line-height: 24px;
+}
+
+.o_s_products_2 h1 {
+    text-align: center;
+    color: #e9b931;
+    font-size: 25px;
+    margin-top: 25px;
+    font-family: "Antonio-Regular";
+}
+
+.o_s_products_2 p {
+    text-align: center;
+    color: #ffffff;
+    /* color: black; */
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 0;
+    margin-top: 10px;
+    font-family: Open Sans;
+    line-height: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+/* <!-- section 5 ( latest blog ) starts  --> */
+
+.latest_blog h1 {
+    text-align: center;
+    font-family: "Antonio-Regular";
+
+    font-size: 36px;
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+    margin-top: 0;
+    position: relative;
+    display: inline-block;
+    line-height: 1.2;
+    color: black;
+}
+
+u {
+    text-decoration: none;
+}
+
+.blog_1_text h2 {
+    color: #e9b931;
+}
+
+.blog_1_text p {
+    /* color: #ffffff; */
+    color: black;
+    margin-bottom: 0;
+    font-size: 15.5px;
+    font-weight: 300;
+    font-family: Open Sans, Georgia, serif, serif, sans-serif;
+
+}
+
+.blog_1_text_css_1 {
+    margin-top: 39px;
+    margin-right: 65px;
+    text-align: left;
+    /* margin-left: 1px; */
+}
+
+.blog_1_text.blog_1_text_css_1 {
+    padding: 40px 47px 25px;
+    min-height: 279px;
+    background-color: #f5f5f5;
+}
+
+.blog_img_1 img {
+    width: 100%;
+    margin: auto;
+}
+
+.post-author {
+    margin-top: 14px;
+}
+
+
+
+
+
+.blog_2_text {
+    text-align: right;
+    color: whitesmoke;
+}
+
+.blog_2_text_css_2 {
+    /* background: gray; */
+    font-family: Open Sans, Georgia, serif, serif, sans-serif;
+    margin-top: 0px;
+    margin-left: 55px;
+    /* background: gray; */
+    height: 25vh;
+    /* margin-right: 1px; */
+    /* padding: 0px 35px; */
+    background: #f5f5f5;
+    padding: 40px 30px 35px;
+    min-height: 260px;
+
+}
+
+
+.blog_2_text.blog_2_text_css_2 {
+    padding: 40px 30px 35px;
+    min-height: 260px;
+    background-color: #f5f5f5;
+    /* margin-top: -7px; */
+}
+
+.blog_2_text h2 {
+    color: #e9b931;
+    font-family: var(--bs-body-font-family);
+}
+
+.blog_2_text p {
+    /* color: #ffffff; */
+    color: black;
+    margin-bottom: 0;
+    font-size: 15.5px;
+    font-weight: 300;
+    font-family: Open Sans, Georgia, serif, serif, sans-serif;
+
+}
+
+
+.blog_img_2 {
+    float: left;
+    width: 100%;
+}
+/* 
+.blog_border {
+    border: 9px solid #e9b931;
+} */
+
+.blog_img_2 img {
+    width: 100%;
+    margin: auto !important;
+}
+
+
+
+/* <!-- section 6 ( offer section ) starts --> */
+
+.bg_offer{
+    background-image: url("img/bg-home1-event.jpg");
+    /* height: 75vh; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.o_s_3_offer {
+    text-align: center;
+}
+
+.fa-whatsapp {
+    color: black;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    font-size: 50px;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+
+
+.o_s_3_offer h4 {
+    /* text-align: center;
+    font-size: 25px;
+    margin-top: 25px;
+    font-family: "Antonio-Regular"; */
+    font-size: 30px;
+    margin-top: 0;
+    border-bottom: 2px solid #ebebeb;
+    padding-bottom: 22px;
+    margin-bottom: 25px;
+    color: black;
+    text-align: center;
+
+
+}
+
+.o_s_3_offer p {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 0;
+    margin-top: 10px;
+    font-family: Open Sans;
+    line-height: 24px;
+    margin: 0 0 35px;
+
+}
+
+.mr_15 {
+    font-size: 18px;
+    margin-right: 15px;
+}
+
+.btnn {
+    margin-top: 21px;
+}
+
+
+
+/* i.fa.fa-map-o.text-center {
+    margin-top: 10px;
+} */
+
+
+.mt_150 {
+    margin-top: 150px;
+}
+
+.mb_150 {
+    margin-bottom: 150px;
+}
+
+.o_s_3_offer_pd {
+    padding: 30px 40px 27px;
+}
+
+
+
+
+
+
+
+
+/* <!-- section 7 ( team section )  starts  --> */
+
+
+.o_t_heading {
+    text-align: center;
+}
+
+/* .o_t_heading h3 {
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 2px;
+    color: gold;
+    margin-bottom: 5px;
+}
+ */
+
+ .o_t_heading h3 {
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 35px;
+    line-height: 21px;
+    letter-spacing: 2px;
+    color: gold;
+    margin-bottom: 37px;
+}
+
+.o_t_heading h2.title {
+    font-weight: 800;
+    font-size: 43px;
+    line-height: 56px;
+    text-transform: capitalize;
+    color: #8592a6;
+    margin-bottom: 15px;
+
+}
+
+.o_t_heading h2.title span {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-weight: 800;
+    display: inline-block;
+    color: #ffa800;
+}
+
+/* .team_content.bg-warning {
+    width: 56.9%;
+} */
+
+.o_t_member {
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+}
+
+.o_t_member img {
+    width: 250px;
+    height: auto;
+}
+
+.team_content {
+    text-align: center;
+    padding: 15px;
+}
+
+.black_border {
+    border: 5px solid black;
+    padding: 20px;
+}
+
+.blog_border_team {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 9px solid #e9b931;
+    margin-right: 10px;
+}
+
+.team_content h5,
+p {
+    /* color: black; */
+    color: whitesmoke;
+}
+
+.mb_200 {
+    margin-bottom: 200px;
+}
+
+
+
+/* <!-- section 8 ( our partners section )  starts    --> */
+
+.bg-partners{
+    bgimg
+}
+
+.our_partners h2 {
+    font-family: 'Antonio-Regular';
+    font-size: 36px;
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+    margin-top: 0;
+    position: relative;
+    display: inline-block;
+    color: black;
+    line-height: 1.2;
+}
+
+
+/* .o_p_img{
+    width: 100%;
+    margin: auto;;
+} */
+
+.o_p_img {
+    width: 100%;
+    margin: auto;
+}
+
+.o_p_img img{
+    width: 90%;
+    margin: auto;
+}
+
+
+
+
+
+
+
+/* <!-- section 9 ( our happy client section )  ends        --> */
+
+.bg-img_client {
+    background-image: url("img/megabanner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-anycolor {
+    background-color: #f1e8e9;
+}
+
+.our_happy_client h2 {
+    font-family: 'Antonio-Regular';
+    font-size: 36px;
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+    margin-top: 0;
+    position: relative;
+    display: inline-block;
+    line-height: 1.2;
+    /* color: black; */
+    color: whitesmoke;
+}
+
+
+.client_1 img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 30px;
+    float: right;
+}
+
+
+.client_2 img {
+    border-radius: 50%;
+    width: 180px;
+    border: 5px solid #e9b931;
+    height: auto;
+}
+
+
+.client_3 img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 0px;
+    float: left;
+}
+
+.fa-quote-left {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: whitesmoke;
+
+}
+
+.h_c_name {
+    /* color: black; */
+    color: whitesmoke;
+}
+
+@font-face {
+    font-family: "Antonio-Light";
+    src: url("font/Antonio/Antonio-Light.ttf");
+}
+
+
+.h_c_name h4 {
+    font-family: 'Antonio-Light';
+}
+
+
+.h_c_relation {
+    /* color: black; */
+    color: whitesmoke;
+}
+
+.h_c_relation ul {
+    text-decoration: none;
+}
+
+.h_c_relation ul li {
+    list-style: none;
+}
+
+
+
+
+
+/* <!-- section 10 ( counter section )  starts        --> */
+
+/* 
+.counter_1_img {
+    width: 506.33px;
+    height: auto;
+    padding: 0;
+    margin: 0;
+}
+
+
+*h2 {
+    color: #ffffff;
+} */
+
+
+.counter_1_img{
+    background-image: url("img/counter_1.png");
+}
+
+.counter_2_img{
+    background-image: url("img/counter_2.png");
+}
+
+.counter_3_img{
+    background-image: url("img/counter_3.png");
+}
+
+.counter_1_img,.counter_2_img,.counter_3_img{
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.b{
+    
+}
+
+.wedding-counter .icon i {
+    font-size: 60px;
+    color: #fff;
+}
+
+[class^="Pe-icon-7-stroke-"], [class*=" Pe-icon-7-stroke-"] {
+    display: inline-block;
+    font-family: 'Pe-icon-7-stroke';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* <!-- section 11 ( contact us  section )  starts           --> */
+
+
+
+.drop_message h2 {
+    text-align: center;
+    color: black;
+    font-family: 'Antonio-Regular';
+
+}
+
+.drop_message{
+    width: 950px;
+    margin: auto;
+}
+.drop_message p {
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 16px;
+    font-family: Open Sans, Georgia, serif, serif, sans-serif;
+    line-height: 24px;
+}
+
+.btn_3 {
+    text-align: center;
+    margin-top: 25px;
+    border-radius: 25px;
+}
+
+.btn_4 {
+    text-align: center;
+    margin-top: 25px;
+    border-radius: 25px;
+
+        border-radius: 25px;
+        /* background-color: #28313b; */
+        /* background: #05060a; */
+        z-index: 9;
+        white-space: nowrap;
+        font-size: 16px;
+        line-height: 22px;
+        color: black;
+        letter-spacing: 0px;
+        text-transform: uppercase;
+        border-color: transparent;
+        border-style: solid;
+        border-width: 1px 1px 1px 1px;
+        border-radius: 10px 10px 10px 10px;
+        background: #e9b931 !important;
+    
+    }
+
+
+button.btn.btn-warning {
+    border-radius: 25px;
+    font-family: 'Antonio-Regular';
+
+}
+
+.btn3 {
+    border-radius: 20px;
+    font-size: 21px;
+    width: 98px;
+    margin: auto;
+}
+
+.button{
+    width: 150px;
+}
+
+.b{
+    float: left;
+    margin-top: 52px;
+}
+
+/* <!-- section 12 ( footer  section )   starts               --> */
+
+
+.logo_at_footer {
+    /* padding-top: 31px; */
+    /* width: 50%; */
+    margin: 0px;
+    /* padding-left: 1px; */
+}
+
+.logo_at_footer img {
+    width: 15%;
+    margin: auto;
+}
+.logo_at_footer h5{
+    margin-top: 25px;
+    color: whitesmoke;
+}
+
+.logo_at_footer h1 {
+    color: whitesmoke;
+}
+.add {
+    float: left;
+    width: 100%;
+}
+
+.logo_at_footer p{
+    color: whitesmoke;
+    /* color: rgb(4, 0, 0); */
+    font-size: 15px;
+    font-family: Open Sans, Georgia, serif, serif, sans-serif;
+    line-height: 24px;
+    font-weight: 400;
+    margin-top: 35px;
+}
+
+.address_icon i {
+    float: left;
+    font-size: 36px;
+    color: whitesmoke;
+    border-radius: 25px;
+    margin: 20px;
+    
+}
+
+.address{
+    color: whitesmoke;
+    float: left;
+    
+}
+
+.address h3 {
+    font-size: 23px;
+    margin-top: 12px;
+}
+
+.address h4 {
+    font-size: 14px;
+}
+
+.address_icon_2 i {
+    /* float: left; */
+    font-size: 36px;
+    color: whitesmoke;
+    /* border-radius: 25px; */
+    margin: 20px;
+}
+
+.fa-map-marker{
+    margin-left: 5px;
+}
+
+.address_icon_2{
+    /* float: left; */
+}
+.add2{
+    float: left;
+}
+
+.add2 .address_icon_2{
+    float: left;
+}
+.navig h4 {
+    color: #ffc107;
+}
+.navig ul{
+    /* text-decoration: none; */
+}
+
+.navig ul li{
+    list-style: none;
+    padding-top: 20px;
+}
+
+.navig ul li a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.navig h4 {
+    margin-left: 25px;
+}
+
+
+
+
+/* <!-- section 13 ( copyright  section )   starts               --> */
+
+
+.copyright{
+    color: #ffffff;
+}
+
+
+.social_media{
+    /* float: left; */
+}
+
+.social_media ul{
+list-style: none;
+float: right;
+margin: 0;
+/* padding-top: 50px; */
+}
+
+.social_media ul li{
+    text-decoration: none;
+    float:left ;
+}
+
+.social_media ul li a{
+    /* list-style: none; */
+    padding: 0px 20px;
+    color: whitesmoke;
+}
+
+.form-control {
+    margin-top: 15px;
+}
+
+.bg-black_gradient_img {
+    background-image: url("img/bg-footer.jpg");
+    /* height: 70vh; */
+    float: left;
+}
+
+.mt_25{
+    margin-top: 25px;
+}
+
+.btn-outline-primary{
+    /* display: none; */
+}
+
+section{
+    float: left;
+    width: 100%;
+}
+
+.logo_1_1 {
+    /* padding-top: 31px; */
+    width: 27%;
+    margin: 0px;
+    /* padding-left: 1px; */
+}
+
+
+.logo_1_1 h1{
+    color: #e9b931;
+    font-size: 35px;
+    text-align: center;
+}
+
+.logo_1_1 h6{
+    font-size: 10px;
+    text-align: center;
+    color: #e9b931;
+}
+
+
+.mb_25{
+    margin-bottom: 25px;
+}
+
+.address_icon {
+    margin-left: -26px;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    /* color: #212529; */
+    /* background-color: #fff; */
+    /* background-clip: padding-box; */
+    border: none;
+    /* -webkit-appearance: none; */
+    -moz-appearance: none;
+    /* appearance: none; */
+    border-radius: none;
+    /* transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out; */
+    border-bottom: 1px solid;
+}
+
+
+
+
+/* about us style  */
+
+.mt_50{
+    margin-top: 50px;
+}
+
+
+/* section 2  */
+
+.a_u_bg_img{
+    background-image: url("img/aboutusimg/aboutbg\ copy.jpg");
+    height: 50vh;
+}
+
+
+.a_u_title{
+    margin-top: 230px;
+}
+
+@font-face {
+    font-family:"Antonio-Regular" ;
+    src: url("font/Antonio/Antonio-Regular.ttf");
+}
+
+.a_u_title h1{
+    color: whitesmoke;
+    font-family:"Antonio-Regular" ;
+    font-weight: 500;
+    line-height: 1.1;
+
+}
+
+.a_u_title h4{
+    color: whitesmoke;
+    font-size: 16px;
+    font-family:  sans-serif;
+    /* font-family: Open Sans, Georgia, serif, serif, sans-serif; */
+    line-height: 24px;
+
+
+}
+
+
+/* section 3  */
+
+.w_c_bg{
+    background-image: url("img/aboutusimg/planer-flower.jpg");
+    height: 50vh;
+    
+    background-repeat: no-repeat;
+}
+
+
+.wedding_content h3{
+    color: #2e3c40;
+    font-family:"Antonio-Regular" ;
+    font-size: 36px;
+}
+
+.wedding_content h1{
+    color: #2e3c40;
+    font-size: 48px;
+    font-family:"Antonio-Regular" ;
+
+}
+
+.wedding_content p{
+    color: #2e3c40;
+    font-size: 16px;
+    font-family:  sans-serif;
+    list-style: 24px;
+}
+
+
+.btn_au{
+    padding: 10px 25px;
+}
+
+
+/* service css */
+
+
+/* section 3  */
+
+
+.services_bg_img {
+    background-image: url("img/services/aboutbg\ copy.jpg");
+    height: 63vh;
+    background-repeat: no-repeat;
+}
+
+.wedding_stuff{
+    width: 8%;
+    margin: auto;
+}
+.wedding_stuff img{
+    width: 100% ;
+    margin: auto;
+}
+
+.ser_wedding_icons{
+    text-align: center;
+}
+
+.ser_wedding_icons h1{
+      font-family:"Antonio-Regular" ;
+}
+
+.ser_wedding_icons p{
+    color: #2e3c40;
+
+}
+
+
+
+
+
+
+.carousel-inner{
+    display: block;
+    margin-left: auto;
+    /* margin-right: auto; */
+    /* width: 50%; */
+}
+
+
+.a_u_title h4 a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+
+
+
+/* PORTFOLIO */
+
+/* .f_d_g{
+    border-radius: 10px;
+    padding: 20px 0px;
+    background-color: #ff4061;
+} */
+
+.f_d_g {
+    border-radius: 10px;
+    padding: 20px 0px 5px 0px;
+    background-color: #ff4061;
+}
+
+.four_differ_gallery h4{
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.four_differ_gallery p{
+    color: whitesmoke;
+    font-size: 15px;
+}
+
+
+.img_1{
+    /* width: 100%;
+    margin: auto; */
+}
+
+.img_1 img{
+    width: 100%;
+    margin: auto
+}
+
+
+
+
+/* contact us  */
+
+.map{
+    width: 100%;
+    margin: auto;
+    background-repeat: no-repeat;
+}
+
+.our_services h4{
+    color: whitesmoke;
+    font-family:"Antonio-Regular" ;
+}
+
+.our_services p {
+    margin-top: 25px;
+    font-family:  sans-serif;
+
+}
+
+
+.a_c_w{
+    text-align: center;
+}
+
+.a_c_w h4{
+    color: #e9b931;
+    font-family:"Antonio-Regular" ;
+}
+
+.a_c_w p{
+    font-family:  sans-serif;
+
+}
+
